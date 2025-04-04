@@ -56,7 +56,6 @@ nil/cmd/nil/nil
 
 
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -82,3 +81,4 @@ openrpc.json
 .pnpm/
 .pnpm-store/
 .qodo
+config.bat
